@@ -1,1 +1,2 @@
-Hi, for finding the instructions and codes of each HW, swith to its own branch here. Thx.
+Hello,
+To access the instructions and code for each homework assignment, please switch to the respective branch. Thx.
